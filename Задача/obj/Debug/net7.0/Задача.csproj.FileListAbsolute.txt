@@ -1,0 +1,15 @@
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\bin\Debug\net7.0\Задача.exe
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\bin\Debug\net7.0\Задача.deps.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\bin\Debug\net7.0\Задача.runtimeconfig.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\bin\Debug\net7.0\Задача.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\bin\Debug\net7.0\Задача.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\obj\Debug\net7.0\Задача.csproj.AssemblyReference.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\obj\Debug\net7.0\Задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\obj\Debug\net7.0\Задача.AssemblyInfoInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\obj\Debug\net7.0\Задача.AssemblyInfo.cs
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\obj\Debug\net7.0\Задача.csproj.CoreCompileInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\obj\Debug\net7.0\Задача.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\obj\Debug\net7.0\refint\Задача.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\obj\Debug\net7.0\Задача.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\obj\Debug\net7.0\Задача.genruntimeconfig.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\контрольная работа. выбор специализации\Задача\obj\Debug\net7.0\ref\Задача.dll
